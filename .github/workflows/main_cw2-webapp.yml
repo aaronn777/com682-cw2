@@ -61,5 +61,6 @@ jobs:
         with:
           app-name: 'cw2-webapp'
           slot-name: 'Production'
-          package: .
+          package: frontend
+
           
